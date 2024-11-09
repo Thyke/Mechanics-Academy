@@ -19,9 +19,9 @@ This repository serves as a learning hub for aspiring Unreal Engine developers. 
 4. Each mechanic includes detailed documentation and comments
 
 ## Requirements
-- Unreal Engine 5.x
+- Unreal Engine 5.4 or Higher
 - Basic understanding of Blueprints
-- Visual Studio 2019/2022 (for C++ examples)
+
 
 ## Contributing
 Feel free to contribute by:
