@@ -14,7 +14,7 @@ This repository serves as a learning hub for aspiring Unreal Engine developers. 
 
 ## Getting Started
 1. Clone the repository
-2. Open the project in Unreal Engine 5.x
+2. Open the project in Unreal Engine 5.4 or Higher
 3. Navigate to different branches for specific mechanics
 4. Each mechanic includes detailed documentation and comments
 
